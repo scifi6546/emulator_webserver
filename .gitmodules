@@ -1,0 +1,3 @@
+[submodule "gameboy_emulator"]
+	path = gameboy_emulator
+	url = git@github.com:scifi6546/gameboy_emulator.git
